@@ -5,7 +5,7 @@ Compile twrp under omnirom environment
 Get the omnirom minimal sources here 
 
 
-repo init -u git://github.com/omnirom/android.git -b twrp-6.0
+repo init -u git@github.com:lj50036/platform_manifest_twrp_omni.git -b twrp-6.0
 
 
 repo sync
